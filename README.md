@@ -36,13 +36,13 @@ Cada sección incluye información básica y elementos visuales para practicar l
 ## 📂 Estructura del proyecto
 
 /
-├── index.html
-├── index2.html
-├── index3.html
-├── index4.html
-├── img/
+├── index.html        
+├── index2.html       
+├── index3.html       
+├── index4.html       
+├── img2/              
 │   └── (imágenes del proyecto)
-└── style.css
+└── style.css         
 
 ---
 
