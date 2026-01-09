@@ -1,4 +1,4 @@
-# Shei# 🌍 Primera Página Web – Playa y Montaña
+🌍 Primera Página Web – Playa y Montaña
 
 Este proyecto corresponde a **mi primera página web**, desarrollada durante el **primer curso del Grado Medio de Sistemas Microinformáticos y Redes (SMR)**, en la asignatura **Aplicaciones Web**.
 
