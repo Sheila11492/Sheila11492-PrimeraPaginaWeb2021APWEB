@@ -70,6 +70,3 @@ Con este proyecto aprendí a:
 **Sheila**  
 Proyecto académico realizado durante mis estudios en SMR.
 
----
-
-Gracias por visitar este repositorio 🙂
